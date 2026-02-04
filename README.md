@@ -1,16 +1,20 @@
-## Hi there 👋
+I'm Víctor, a Computer Engineering student from the UPV.
+I self learnt C and C++ and I'm currently at HyperloopUPV working in the Firmware and Embedded subsystem.
 
-<!--
-**victor-Lopez25/victor-Lopez25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have experience using programming languages: {
+  "C",
+  "C++",
+  "Odin",
+  "Python",
+  "ARMv7-M assembly",
+  "Java",
+  "Haskell"
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience using libraries: {
+  [SDL3](wiki.libsdl.org/SDL3/FrontPage),
+  [raylib](www.raylib.com),
+  Win32,
+  [Dear ImGui](github.com/ocornut/imgui),
+  [JavaFX](openjfx.io/)
+}
